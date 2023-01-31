@@ -48,16 +48,7 @@ From this filtered data, the Google Places API was used to locate the first hote
 
 Finally, the hotels were plotted on the humidity heatmap with a pin, which contains the hotel name, city, and country.
 
-Map images can be seen in VacationPy folder under Map_images folder.
 
-Files Included
-VacationPy folder -
-VacationPy jupyter notebook, which contains all analysis for VacationPy part of the challenge
-Map_images folder containing map visualizations from challenge
-WeatherPy folder -
-WeatherPy jupyter notebook, which contains all analysis for WeatherPy part of the challenge
-Output folder containing cities.csv and scatter plot visualizations
-index.html
 API keys
 In order to access OpenWeatherMap API and Google Places API, API keys were required. These were not uploaded to this repository, to keep them private. To run this code, the user would need to create a file entitled api_keys.py with the following format:
 
